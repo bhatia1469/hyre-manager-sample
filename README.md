@@ -1,0 +1,1 @@
+# hyre-manager-sample
